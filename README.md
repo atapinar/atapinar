@@ -1,1 +1,1 @@
-## *Economics and Data Science student on a path to mastering Fin-markets.*
+## Economics and Data Science student pursuing a career in financial markets while building algorithmic trading strategies.
