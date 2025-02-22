@@ -1,1 +1,1 @@
-## Bridging AI with finance
+## Bridging Ai with finance
