@@ -1,6 +1,5 @@
-## Bridging Ai with finance
 
-# I'm Ata
+# hi folks I'm Ata
 
 ## 🛠️ My Tech Stack
 
