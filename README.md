@@ -1,6 +1,6 @@
 ## Bridging Ai with finance
 
-# Hey there 👋 I'm [Your Name]
+# I'm Ata
 
 ## 🛠️ My Tech Stack
 
@@ -22,14 +22,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atapinar&layout=compact&theme=dark)
 
-## 🚀 Recent Projects
-
-- [RTIB Database](https://github.com/atapinar/rtib-database) - A blazing-fast CRM for Turkish companies crushing it in the Russian market
-- [Project 2](https://github.com/atapinar/project2) - Short description
-- [Project 3](https://github.com/atapinar/project3) - Short description
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Resume](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]([https://yourportfolio.com](https://atapinar.com))
