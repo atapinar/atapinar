@@ -1,7 +1,7 @@
 
 # hi folks I'm Ata
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
