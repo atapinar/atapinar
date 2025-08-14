@@ -1,1 +1,1 @@
-# hi folks I'm Ata
+# I'm Ata
